@@ -1,0 +1,9 @@
+.nav__link {
+  color: gray;
+  padding-left: 20px;
+  text-decoration: none;
+}
+
+.active {
+  color: white;
+}
